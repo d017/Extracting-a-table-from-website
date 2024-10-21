@@ -1,2 +1,13 @@
 # Extracting-a-table-from-website
-An indiviual use program to extract a table with Messier objects catalog information and save it to an Excel workbook.
+### upload.py
+*Libraries used:*
+- openpyxl
+- bs4
+- requests (is not used in the code, but can be used to get the html of the page)
+### test.py
+Test file.
+
+*Libraries used:*
+- openpyxl
+
+A program that parses through the website to extract table data and save it to an Excel workbook.
